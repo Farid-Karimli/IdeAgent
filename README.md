@@ -1,8 +1,8 @@
 # Project Overview
 
-I want to automate exploring research directions on a topic. I want to set up an agentic system to help explore and evaluate possible research directions in the herbaria identification. I'm thinking of two agents that communicate with each other, and iteratively work towards a comprehensive roadmap of research ideas (on a topic that the user provides) and what each one entails.
+Automate exploring research directions on a topic. The goal is to set up an agentic system to help explore and evaluate possible research directions for a user-provided research topic. Think of a few agents communicating with each other, and iteratively work towards a comprehensive roadmap of research ideas and what each one entails.
 
-## Proposed design
+## Current design
 
 ### Agent 1: Idea Generator
 
